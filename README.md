@@ -16,3 +16,5 @@ The attributes collected include (see `Models/Paper.cs`):
 The code can be configured to pull from URLs with the following pattern:
 
 - http://accelconf.web.cern.ch/ipac{year}/html/class.htm
+
+An extract as at 27/03/2021 is included in `papersJson.rar`
